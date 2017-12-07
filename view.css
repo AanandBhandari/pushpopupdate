@@ -1,0 +1,9 @@
+.table{
+	width: 500px;  
+	border-color: gray;
+	border-style: solid;
+}
+.table tr{
+	background-color: silver;
+	text-align: center;
+}
